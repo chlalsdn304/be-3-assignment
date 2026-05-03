@@ -2,7 +2,7 @@
 
 역할을 묻는 조건문 대신, 역할을 가진 객체에게 판단을 맡기는 **다형성 구조**를 설계하며 객체지향의 핵심인 상속과 추상화를 직접 경험하는 자바 프로그래밍 과제입니다.
 
-자세한 내용은 PBL 사이트를 참고 하세요. [3주차 - 객체지향 II - 상속과 다형성]([https://likelion-pbl-five.vercel.app/](https://likelion-pbl-five.vercel.app/springboot/2f044860a4f481869998cc607120d4c4))
+자세한 내용은 PBL 사이트를 참고 하세요. [3주차 - 객체지향 II - 상속과 다형성]([(https://likelion-pbl-five.vercel.app/springboot/2f044860a4f481869998cc607120d4c4)])
 
 ## 🎯 과제 목표
 * **상속과 추상화**: 공통 속성을 부모 클래스로 분리하고 추상 클래스와 인터페이스의 차이를 이해합니다.
